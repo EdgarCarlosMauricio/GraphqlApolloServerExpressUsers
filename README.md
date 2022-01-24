@@ -1,5 +1,7 @@
 # GraphQL Server
 
+node 16.13.2
+
 ## Hello Moto
 
 ```

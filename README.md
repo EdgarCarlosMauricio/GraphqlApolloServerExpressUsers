@@ -13,6 +13,6 @@ node 16.13.2
 
 BBDD=mongodb+srv://alzheimeer:Qazwsxx2@instaclone.mmk85.mongodb.net/instaclone
 SECRET_KEY=Zpwjiexxn123*
-AWS_ID=AKIAXOGXXODNUQLBXOHU
-AWS_SECRET=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
-AWS_BUCKET_NAME=instaclone-agustin
+AWS_ID=
+AWS_SECRET=
+AWS_BUCKET_NAME=
